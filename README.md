@@ -73,4 +73,5 @@ Esto dejará el archivo requirements.txt actualizado con las dependencias instal
 ## Autor
 
 Proyecto desarrollado como entrega final de la diplomatura Python — CoderHouse.
+
 Autor: Fabián Larrosa
